@@ -14,3 +14,5 @@ Robotakia - Recycling
 Ιστοσελίδα έργου:https://openedtech.ellak.gr/robotics2023/robotakia-recycling/
 
 Βίντεο παρουσίασης: https://youtu.be/yJ9c3QlVzuA
+
+
